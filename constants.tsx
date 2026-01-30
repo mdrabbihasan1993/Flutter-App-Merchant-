@@ -31,7 +31,6 @@ export const PAYMENT_STATS: StatItem[] = [
   { title: "COD Collected", value: "৳1,20,400", icon: Banknote, isOrange: false },
   { title: "Paid Amount", value: "৳84,200", icon: CheckCircle2, isOrange: true },
   { title: "Unpaid Amount", value: "৳36,200", icon: AlertCircle, isOrange: false },
-  { title: "Processing", value: "৳12,000", icon: RefreshCw, isOrange: true },
   { title: "Total Invoices", value: "42", icon: FileText, isOrange: false },
   { title: "Paid Invoices", value: "30", icon: ClipboardCheck, isOrange: true },
   { title: "Unpaid Invoices", value: "12", icon: ClipboardList, isOrange: false },
